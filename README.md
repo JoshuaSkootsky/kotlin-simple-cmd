@@ -6,7 +6,7 @@ Some simple stuff in kotlin from the command line
 
 $ kotlinc hello.kt -include-runtime -d hello.jar
 
-java -jar hello.jar
+$ java -jar hello.jar
 
 Hello, World!
 
